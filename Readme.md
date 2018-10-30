@@ -3,7 +3,7 @@ g++ Gnu compiler,  C++ 11 .
 CMAKE >=3.0
 
 Shell script to run the game:
-<ul  style="list-style: none;">
+<ul>
 <ol>mkdir build</ol>
 <ol>cd build</ol>
   <ol>cmake ..</ol>
