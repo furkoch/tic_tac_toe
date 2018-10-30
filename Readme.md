@@ -1,5 +1,5 @@
 Requirements:
-g++ Gnu C++ compiler.
+g++ Gnu compiler,  C++ 11 .
 CMAKE >=3.0
 
 Shell script to run the game:
